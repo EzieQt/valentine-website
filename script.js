@@ -29,7 +29,7 @@ noButton.addEventListener('click', () => {
 
   // Change the image to something funny
   if (noCount % 2 === 0) {
-    valentineImage.src = 'funny-image1.jpg'; // Add a funny image
+    valentineImage.src = 'min/funny-image1.jpg'; // Add a funny image
   } else {
     valentineImage.src = 'C:/Users/ACER/Downloads/ValentinesWeb/ValenFoto/Bred.png'; // Add another funny image
   }
